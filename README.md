@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatima Taisyer</h1>
-<h3 align="center">A Full Stack developer from Jordan</h3>
+<h3 align="center"> I am  a  Full Stack developer from Jordan</h3>
 
 - 🔭 I’m currently working on **Event Managment(Rest Api)**
 
@@ -10,6 +10,8 @@
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
 - 💬 Ask me about **Laravel , PHP**
+  
+- Fun fact I'm still  daily develop my self to get job 
 
 - 📫 How to reach me **fatimataihajeer99@gmail.com**
 
